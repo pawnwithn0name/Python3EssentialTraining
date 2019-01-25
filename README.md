@@ -1,2 +1,2 @@
 # Python3EssentialTraining
-Pyython 3 Essential Training Exercise Files
+Python 3 Essential Training Exercise Files
