@@ -1,0 +1,78 @@
+Lab 1
+Implementing Expressions, Statements, Variables, Quotes, Basic Math Operations, Strings, Basic String Operations & String Methods, List, Tuple, Dictionaries, Arrays. 
+a. Write a Python program to display Fibonacci series.
+b. Write a Python program that illustrates some basic math operations.
+c. Write a Python program that illustrates some basic string operations and methods.
+d. Write a program to implement list and some list methods
+e. Write a program to implement tuples and some associated methods.
+f. Write a program to implement dictionaries
+g. Write a program to implement arrays and some of the associated methods.
+
+Lab 2
+Implementing Functions
+a. Write a program that displays Fibonacci series and calculates the sum of two numbers using functions.
+
+Lab 3
+Implementing OOPS concepts.
+a. Write a program to implement encapsulation and constructor.
+b. Write a program to illustrate inheritence in Python.
+c. Write a program to illustrate polymorphism using method overloading.
+
+Lab 4
+Implementing Exception Handling and Multithreading
+a. Write a Python program that illustrates exception handling using 'try-except' only.
+b. Write a Python program that illustrates the usage of 'finally' clause.
+c. Write a Python program that illustrates how to raise an exception.
+d. Write a Python program to create a user defined exception.
+e. Write a Python program to illustrate multithreading using '_thread' module.
+f. Write a Python program to illustrate multithreading using threading module.
+g. Write a Python program to illustrate synchronization in threads.
+h. Write a Python program to implement a priority queue using multithreading.
+Lab 5
+Implementing GUI using tkinter
+a. Create a GUI in Python using tkinter module.
+
+
+Lab 6
+Connecting to MySQL Database
+a. Write a Python program that connects to a MySQL database. The code should fetch values from a table in the database and display those values on the console.
+
+Lab 7
+Inserting data in database
+a. write a program to insert data in the table shown.
+Lab 8
+Updating data in database
+a. Write a program that updates the contact field of fourth row of the schema shown.
+Lab 9
+Deleting an entry from a database
+a. Write a program that deletes the fourth row from the schema and changes the id. of the fifth row to 4.
+
+Lab 10
+Implementing files in Python
+a. Write a program to create a text file through a python program and write some text in it. Display the written text in the file on the console.
+
+
+Lab 11
+Implementing Abstract classes in Python
+a. Write a program that contains an abstract class with an abstract method, runningSpeed(). Derive two classes, Human and Jaguar that redifine this method and display the maximum running speeds of humans and jaguars respectively. 
+
+
+Lab 12
+Implementing connections with TCP and UDP Sockets in Python.
+a. Write separate client and server programs to implement TCP sockets in Python.
+b. Write separate client and server programs to implement UDP sockets in Python.
+
+Lab 13
+Write a program to remove duplicate items of a list.
+
+Lab 14
+Write a program to count the number of strings where the string length is 2 or more and the first and the last character are same from a given list of strings.
+
+Lab 15
+Write a program to calculate the binary equivalent of a number recursively.
+a. The following program consists of a recursive function that calculates the binary equivalent of a given number.
+
+Lab 16
+Creating a web application using Python.
+
+a. The following program creates a simple Login application in Python:
